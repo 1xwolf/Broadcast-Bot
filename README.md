@@ -13,7 +13,7 @@ A clean and powerful Discord broadcast bot built with **Discord.js v14**. It all
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 * Node.js 16.9+
 * Discord Bot Token
