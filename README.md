@@ -2,6 +2,13 @@
 
 A clean and powerful Discord broadcast bot built with **Discord.js v14**. It allows you to send broadcast messages to all server members or specific roles. Designed to be lightweight, fast, and easy to extend.
 
+<p align="center>
+  
+  <img width="100" height="100" alt="تصميم بدون عنوان (1)" src="https://github.com/user-attachments/assets/50fb54cf-b173-41ad-9b28-e83c2899404d" />
+  
+</p>
+
+
 ---
 
 ## Features
