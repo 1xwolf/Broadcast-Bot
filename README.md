@@ -22,8 +22,11 @@ A clean and powerful Discord broadcast bot built with **Discord.js v14**. It all
 
 ```bash id="pkg001"
 @discordjs/builders
+
 @discordjs/rest
+
 discord-api-types
+
 discord.js
 ```
 
@@ -35,22 +38,28 @@ Clone the repository and install dependencies:
 
 ```bash id="inst002"
 git clone https://github.com/your-username/discord-broadcast-bot
+
 cd discord-broadcast-bot
+
 npm install
 ```
 
 Create a `.env` file:
 
 ```env id="env003"
-TOKEN=your-bot-token
-CLIENT_ID=your-client-id
-GUILD_ID=your-guild-id
+TOKEN = here 
+
+CLIENT_ID = here ID Bot
+
+GUILD_ID = here ID Server
 ```
 
 Start the bot:
 
 ```bash id="run004"
+
 npm start
+
 ```
 
 ---
@@ -58,6 +67,7 @@ npm start
 ## Commands
 
 * `broadcast` — Send a broadcast message
+  
 * `ping` — Check bot status
 
 ---
@@ -76,6 +86,6 @@ discord-broadcast-bot/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. Feel free to open an issue or submit a pull request.
